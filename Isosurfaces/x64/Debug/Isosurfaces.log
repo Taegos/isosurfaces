@@ -1,0 +1,6 @@
+﻿  Isosurfaces.cpp
+c:\users\benjamin\source\repos\isosurfaces\isosurfaces\isosurfaces.cpp(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  SharedAPI.cpp
+  Generating Code...
+     Creating library C:\Users\Benjamin\Source\Repos\Isosurfaces\x64\Debug\Isosurfaces.lib and object C:\Users\Benjamin\Source\Repos\Isosurfaces\x64\Debug\Isosurfaces.exp
+  Isosurfaces.vcxproj -> C:\Users\Benjamin\Source\Repos\Isosurfaces\x64\Debug\Isosurfaces.dll
